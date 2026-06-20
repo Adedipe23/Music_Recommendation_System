@@ -1,0 +1,13 @@
+services:
+  music-recommender:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./reports:/app/reports
+    environment:
+      LASTFM_API_KEY: ${LASTFM_API_KEY:-}
+    restart: unless-stopped
+

@@ -1,0 +1,1951 @@
+user_id,artist_id,artist_name,play_count
+user_001,artist_002,Wizkid,81
+user_001,artist_011,Joeboy,76
+user_001,artist_012,CKay,48
+user_001,artist_010,Omah Lay,96
+user_001,artist_006,Rema,62
+user_001,artist_005,Ayra Starr,26
+user_001,artist_001,Tems,58
+user_001,artist_007,Asake,24
+user_001,artist_050,Black Sherif,61
+user_001,artist_046,Amaarae,33
+user_001,artist_048,Shatta Wale,30
+user_002,artist_020,Dua Lipa,35
+user_002,artist_023,Olivia Rodrigo,33
+user_002,artist_019,Ed Sheeran,27
+user_002,artist_025,Lana Del Rey,68
+user_002,artist_024,Miley Cyrus,96
+user_002,artist_016,Ariana Grande,42
+user_002,artist_018,Billie Eilish,26
+user_002,artist_026,Adele,27
+user_002,artist_017,Taylor Swift,53
+user_002,artist_022,Bruno Mars,56
+user_002,artist_027,Coldplay,49
+user_003,artist_034,Future,17
+user_003,artist_039,J Hus,37
+user_003,artist_038,Dave,34
+user_003,artist_037,Stormzy,30
+user_003,artist_031,Post Malone,38
+user_003,artist_035,Metro Boomin,122
+user_003,artist_036,Central Cee,26
+user_003,artist_032,Doja Cat,86
+user_003,artist_047,Sarkodie,11
+user_003,artist_015,Tiwa Savage,28
+user_003,artist_007,Asake,38
+user_004,artist_041,The Weeknd,63
+user_004,artist_016,Ariana Grande,50
+user_004,artist_008,Tyla,72
+user_004,artist_045,Chris Brown,35
+user_004,artist_042,Beyonce,51
+user_004,artist_046,Amaarae,69
+user_004,artist_043,Rihanna,37
+user_004,artist_040,SZA,62
+user_004,artist_017,Taylor Swift,22
+user_004,artist_024,Miley Cyrus,27
+user_004,artist_019,Ed Sheeran,27
+user_005,artist_048,Shatta Wale,43
+user_005,artist_049,Stonebwoy,15
+user_005,artist_002,Wizkid,18
+user_005,artist_004,Davido,19
+user_005,artist_003,Burna Boy,24
+user_005,artist_046,Amaarae,59
+user_005,artist_050,Black Sherif,25
+user_005,artist_007,Asake,36
+user_005,artist_015,Tiwa Savage,81
+user_005,artist_047,Sarkodie,27
+user_006,artist_038,Dave,18
+user_006,artist_034,Future,48
+user_006,artist_039,J Hus,32
+user_006,artist_037,Stormzy,53
+user_006,artist_053,Headie One,46
+user_006,artist_028,Drake,130
+user_006,artist_050,Black Sherif,39
+user_006,artist_036,Central Cee,23
+user_006,artist_023,Olivia Rodrigo,39
+user_006,artist_025,Lana Del Rey,40
+user_006,artist_019,Ed Sheeran,84
+user_007,artist_002,Wizkid,17
+user_007,artist_003,Burna Boy,23
+user_007,artist_004,Davido,56
+user_007,artist_008,Tyla,79
+user_007,artist_014,Simi,169
+user_007,artist_009,Fireboy DML,307
+user_007,artist_013,Kizz Daniel,60
+user_007,artist_012,CKay,24
+user_007,artist_046,Amaarae,8
+user_007,artist_049,Stonebwoy,41
+user_007,artist_015,Tiwa Savage,20
+user_008,artist_024,Miley Cyrus,55
+user_008,artist_019,Ed Sheeran,145
+user_008,artist_023,Olivia Rodrigo,50
+user_008,artist_020,Dua Lipa,87
+user_008,artist_022,Bruno Mars,33
+user_008,artist_018,Billie Eilish,21
+user_008,artist_016,Ariana Grande,24
+user_008,artist_026,Adele,28
+user_008,artist_025,Lana Del Rey,138
+user_008,artist_017,Taylor Swift,20
+user_008,artist_027,Coldplay,60
+user_009,artist_034,Future,51
+user_009,artist_030,Travis Scott,128
+user_009,artist_029,Kendrick Lamar,51
+user_009,artist_035,Metro Boomin,42
+user_009,artist_039,J Hus,55
+user_009,artist_033,Nicki Minaj,108
+user_009,artist_031,Post Malone,53
+user_009,artist_036,Central Cee,35
+user_009,artist_046,Amaarae,71
+user_009,artist_049,Stonebwoy,46
+user_009,artist_047,Sarkodie,94
+user_010,artist_041,The Weeknd,25
+user_010,artist_040,SZA,70
+user_010,artist_044,Khalid,35
+user_010,artist_008,Tyla,46
+user_010,artist_046,Amaarae,41
+user_010,artist_001,Tems,57
+user_010,artist_016,Ariana Grande,115
+user_010,artist_042,Beyonce,49
+user_010,artist_022,Bruno Mars,52
+user_010,artist_020,Dua Lipa,9
+user_010,artist_024,Miley Cyrus,33
+user_011,artist_050,Black Sherif,63
+user_011,artist_015,Tiwa Savage,33
+user_011,artist_003,Burna Boy,37
+user_011,artist_046,Amaarae,88
+user_011,artist_004,Davido,65
+user_011,artist_002,Wizkid,110
+user_011,artist_047,Sarkodie,41
+user_011,artist_048,Shatta Wale,29
+user_011,artist_007,Asake,30
+user_011,artist_049,Stonebwoy,40
+user_012,artist_028,Drake,56
+user_012,artist_038,Dave,101
+user_012,artist_034,Future,28
+user_012,artist_037,Stormzy,30
+user_012,artist_050,Black Sherif,11
+user_012,artist_053,Headie One,41
+user_012,artist_052,Little Simz,23
+user_012,artist_036,Central Cee,32
+user_012,artist_024,Miley Cyrus,19
+user_012,artist_021,Justin Bieber,32
+user_012,artist_020,Dua Lipa,11
+user_013,artist_005,Ayra Starr,24
+user_013,artist_006,Rema,39
+user_013,artist_004,Davido,76
+user_013,artist_011,Joeboy,61
+user_013,artist_003,Burna Boy,36
+user_013,artist_012,CKay,42
+user_013,artist_013,Kizz Daniel,18
+user_013,artist_014,Simi,39
+user_013,artist_048,Shatta Wale,29
+user_013,artist_049,Stonebwoy,40
+user_013,artist_050,Black Sherif,24
+user_014,artist_018,Billie Eilish,180
+user_014,artist_019,Ed Sheeran,128
+user_014,artist_022,Bruno Mars,59
+user_014,artist_026,Adele,28
+user_014,artist_025,Lana Del Rey,22
+user_014,artist_023,Olivia Rodrigo,100
+user_014,artist_021,Justin Bieber,54
+user_014,artist_027,Coldplay,63
+user_014,artist_017,Taylor Swift,11
+user_014,artist_016,Ariana Grande,63
+user_014,artist_024,Miley Cyrus,46
+user_015,artist_030,Travis Scott,39
+user_015,artist_038,Dave,51
+user_015,artist_033,Nicki Minaj,56
+user_015,artist_034,Future,36
+user_015,artist_029,Kendrick Lamar,14
+user_015,artist_039,J Hus,57
+user_015,artist_035,Metro Boomin,142
+user_015,artist_036,Central Cee,17
+user_015,artist_004,Davido,61
+user_015,artist_046,Amaarae,28
+user_015,artist_007,Asake,33
+user_016,artist_040,SZA,38
+user_016,artist_041,The Weeknd,48
+user_016,artist_016,Ariana Grande,29
+user_016,artist_046,Amaarae,87
+user_016,artist_042,Beyonce,21
+user_016,artist_001,Tems,76
+user_016,artist_045,Chris Brown,40
+user_016,artist_008,Tyla,98
+user_016,artist_027,Coldplay,56
+user_016,artist_021,Justin Bieber,113
+user_016,artist_024,Miley Cyrus,55
+user_017,artist_048,Shatta Wale,20
+user_017,artist_050,Black Sherif,29
+user_017,artist_015,Tiwa Savage,56
+user_017,artist_004,Davido,97
+user_017,artist_007,Asake,68
+user_017,artist_046,Amaarae,10
+user_017,artist_002,Wizkid,56
+user_017,artist_047,Sarkodie,48
+user_017,artist_003,Burna Boy,45
+user_017,artist_049,Stonebwoy,99
+user_018,artist_039,J Hus,53
+user_018,artist_037,Stormzy,53
+user_018,artist_028,Drake,55
+user_018,artist_034,Future,26
+user_018,artist_038,Dave,41
+user_018,artist_053,Headie One,41
+user_018,artist_051,Skepta,59
+user_018,artist_036,Central Cee,88
+user_018,artist_025,Lana Del Rey,17
+user_018,artist_024,Miley Cyrus,32
+user_018,artist_018,Billie Eilish,91
+user_019,artist_005,Ayra Starr,40
+user_019,artist_002,Wizkid,12
+user_019,artist_014,Simi,131
+user_019,artist_012,CKay,34
+user_019,artist_010,Omah Lay,49
+user_019,artist_006,Rema,108
+user_019,artist_003,Burna Boy,16
+user_019,artist_011,Joeboy,20
+user_019,artist_004,Davido,12
+user_019,artist_050,Black Sherif,20
+user_019,artist_015,Tiwa Savage,46
+user_020,artist_017,Taylor Swift,50
+user_020,artist_023,Olivia Rodrigo,75
+user_020,artist_022,Bruno Mars,53
+user_020,artist_019,Ed Sheeran,65
+user_020,artist_021,Justin Bieber,29
+user_020,artist_025,Lana Del Rey,41
+user_020,artist_020,Dua Lipa,52
+user_020,artist_027,Coldplay,78
+user_020,artist_024,Miley Cyrus,26
+user_020,artist_016,Ariana Grande,48
+user_020,artist_026,Adele,29
+user_021,artist_036,Central Cee,93
+user_021,artist_034,Future,109
+user_021,artist_031,Post Malone,44
+user_021,artist_029,Kendrick Lamar,111
+user_021,artist_037,Stormzy,49
+user_021,artist_028,Drake,26
+user_021,artist_039,J Hus,31
+user_021,artist_038,Dave,17
+user_021,artist_015,Tiwa Savage,19
+user_021,artist_003,Burna Boy,27
+user_021,artist_007,Asake,58
+user_022,artist_046,Amaarae,23
+user_022,artist_044,Khalid,30
+user_022,artist_016,Ariana Grande,61
+user_022,artist_045,Chris Brown,40
+user_022,artist_043,Rihanna,57
+user_022,artist_040,SZA,58
+user_022,artist_042,Beyonce,109
+user_022,artist_001,Tems,36
+user_022,artist_021,Justin Bieber,13
+user_022,artist_018,Billie Eilish,69
+user_022,artist_020,Dua Lipa,28
+user_023,artist_048,Shatta Wale,93
+user_023,artist_007,Asake,26
+user_023,artist_050,Black Sherif,57
+user_023,artist_002,Wizkid,45
+user_023,artist_047,Sarkodie,56
+user_023,artist_046,Amaarae,26
+user_023,artist_004,Davido,16
+user_023,artist_003,Burna Boy,12
+user_023,artist_015,Tiwa Savage,16
+user_023,artist_049,Stonebwoy,25
+user_024,artist_036,Central Cee,92
+user_024,artist_034,Future,22
+user_024,artist_037,Stormzy,46
+user_024,artist_053,Headie One,250
+user_024,artist_051,Skepta,53
+user_024,artist_052,Little Simz,117
+user_024,artist_028,Drake,49
+user_024,artist_038,Dave,67
+user_024,artist_019,Ed Sheeran,33
+user_024,artist_026,Adele,31
+user_024,artist_022,Bruno Mars,20
+user_025,artist_003,Burna Boy,84
+user_025,artist_006,Rema,14
+user_025,artist_001,Tems,37
+user_025,artist_010,Omah Lay,12
+user_025,artist_005,Ayra Starr,17
+user_025,artist_007,Asake,112
+user_025,artist_015,Tiwa Savage,82
+user_025,artist_002,Wizkid,28
+user_025,artist_004,Davido,13
+user_025,artist_048,Shatta Wale,5
+user_025,artist_049,Stonebwoy,24
+user_026,artist_019,Ed Sheeran,71
+user_026,artist_016,Ariana Grande,29
+user_026,artist_025,Lana Del Rey,82
+user_026,artist_022,Bruno Mars,133
+user_026,artist_027,Coldplay,24
+user_026,artist_026,Adele,25
+user_026,artist_024,Miley Cyrus,110
+user_026,artist_021,Justin Bieber,40
+user_026,artist_017,Taylor Swift,86
+user_026,artist_020,Dua Lipa,26
+user_026,artist_023,Olivia Rodrigo,89
+user_027,artist_029,Kendrick Lamar,97
+user_027,artist_037,Stormzy,9
+user_027,artist_032,Doja Cat,27
+user_027,artist_031,Post Malone,15
+user_027,artist_036,Central Cee,27
+user_027,artist_038,Dave,54
+user_027,artist_033,Nicki Minaj,41
+user_027,artist_028,Drake,39
+user_027,artist_004,Davido,31
+user_027,artist_049,Stonebwoy,39
+user_027,artist_048,Shatta Wale,18
+user_028,artist_044,Khalid,20
+user_028,artist_042,Beyonce,25
+user_028,artist_045,Chris Brown,44
+user_028,artist_043,Rihanna,57
+user_028,artist_008,Tyla,47
+user_028,artist_016,Ariana Grande,28
+user_028,artist_046,Amaarae,82
+user_028,artist_001,Tems,74
+user_028,artist_023,Olivia Rodrigo,31
+user_028,artist_020,Dua Lipa,22
+user_028,artist_025,Lana Del Rey,49
+user_029,artist_048,Shatta Wale,39
+user_029,artist_049,Stonebwoy,58
+user_029,artist_004,Davido,9
+user_029,artist_047,Sarkodie,21
+user_029,artist_015,Tiwa Savage,38
+user_029,artist_003,Burna Boy,23
+user_029,artist_002,Wizkid,73
+user_029,artist_050,Black Sherif,169
+user_029,artist_046,Amaarae,16
+user_029,artist_007,Asake,20
+user_030,artist_038,Dave,32
+user_030,artist_037,Stormzy,78
+user_030,artist_039,J Hus,54
+user_030,artist_053,Headie One,14
+user_030,artist_052,Little Simz,64
+user_030,artist_034,Future,31
+user_030,artist_036,Central Cee,105
+user_030,artist_050,Black Sherif,30
+user_030,artist_019,Ed Sheeran,23
+user_030,artist_017,Taylor Swift,49
+user_030,artist_016,Ariana Grande,57
+user_031,artist_006,Rema,54
+user_031,artist_013,Kizz Daniel,31
+user_031,artist_003,Burna Boy,118
+user_031,artist_001,Tems,34
+user_031,artist_011,Joeboy,47
+user_031,artist_005,Ayra Starr,55
+user_031,artist_014,Simi,30
+user_031,artist_007,Asake,62
+user_031,artist_015,Tiwa Savage,24
+user_031,artist_047,Sarkodie,26
+user_031,artist_002,Wizkid,84
+user_032,artist_023,Olivia Rodrigo,67
+user_032,artist_020,Dua Lipa,64
+user_032,artist_021,Justin Bieber,17
+user_032,artist_022,Bruno Mars,72
+user_032,artist_019,Ed Sheeran,175
+user_032,artist_017,Taylor Swift,51
+user_032,artist_025,Lana Del Rey,37
+user_032,artist_026,Adele,42
+user_032,artist_016,Ariana Grande,51
+user_032,artist_024,Miley Cyrus,11
+user_032,artist_027,Coldplay,38
+user_033,artist_039,J Hus,37
+user_033,artist_029,Kendrick Lamar,15
+user_033,artist_032,Doja Cat,45
+user_033,artist_031,Post Malone,25
+user_033,artist_030,Travis Scott,36
+user_033,artist_038,Dave,43
+user_033,artist_028,Drake,15
+user_033,artist_034,Future,16
+user_033,artist_049,Stonebwoy,47
+user_033,artist_007,Asake,24
+user_033,artist_046,Amaarae,6
+user_034,artist_043,Rihanna,41
+user_034,artist_008,Tyla,78
+user_034,artist_046,Amaarae,69
+user_034,artist_044,Khalid,104
+user_034,artist_041,The Weeknd,32
+user_034,artist_016,Ariana Grande,34
+user_034,artist_042,Beyonce,33
+user_034,artist_040,SZA,77
+user_034,artist_027,Coldplay,92
+user_034,artist_017,Taylor Swift,25
+user_034,artist_019,Ed Sheeran,26
+user_035,artist_002,Wizkid,25
+user_035,artist_046,Amaarae,40
+user_035,artist_003,Burna Boy,95
+user_035,artist_047,Sarkodie,39
+user_035,artist_050,Black Sherif,23
+user_035,artist_049,Stonebwoy,44
+user_035,artist_048,Shatta Wale,91
+user_035,artist_007,Asake,24
+user_035,artist_004,Davido,19
+user_035,artist_015,Tiwa Savage,50
+user_036,artist_050,Black Sherif,36
+user_036,artist_053,Headie One,23
+user_036,artist_039,J Hus,43
+user_036,artist_034,Future,96
+user_036,artist_036,Central Cee,10
+user_036,artist_037,Stormzy,17
+user_036,artist_052,Little Simz,25
+user_036,artist_038,Dave,119
+user_036,artist_019,Ed Sheeran,41
+user_036,artist_020,Dua Lipa,57
+user_036,artist_016,Ariana Grande,16
+user_037,artist_001,Tems,10
+user_037,artist_005,Ayra Starr,88
+user_037,artist_008,Tyla,100
+user_037,artist_002,Wizkid,23
+user_037,artist_003,Burna Boy,13
+user_037,artist_014,Simi,49
+user_037,artist_004,Davido,84
+user_037,artist_009,Fireboy DML,148
+user_037,artist_046,Amaarae,48
+user_037,artist_007,Asake,27
+user_037,artist_047,Sarkodie,19
+user_038,artist_024,Miley Cyrus,104
+user_038,artist_020,Dua Lipa,69
+user_038,artist_023,Olivia Rodrigo,74
+user_038,artist_022,Bruno Mars,69
+user_038,artist_021,Justin Bieber,57
+user_038,artist_017,Taylor Swift,14
+user_038,artist_026,Adele,48
+user_038,artist_027,Coldplay,32
+user_038,artist_025,Lana Del Rey,15
+user_038,artist_018,Billie Eilish,103
+user_038,artist_016,Ariana Grande,107
+user_039,artist_028,Drake,43
+user_039,artist_039,J Hus,148
+user_039,artist_033,Nicki Minaj,82
+user_039,artist_032,Doja Cat,46
+user_039,artist_035,Metro Boomin,54
+user_039,artist_036,Central Cee,47
+user_039,artist_029,Kendrick Lamar,40
+user_039,artist_030,Travis Scott,22
+user_039,artist_048,Shatta Wale,31
+user_039,artist_007,Asake,21
+user_039,artist_046,Amaarae,15
+user_040,artist_046,Amaarae,57
+user_040,artist_008,Tyla,59
+user_040,artist_044,Khalid,106
+user_040,artist_043,Rihanna,94
+user_040,artist_041,The Weeknd,42
+user_040,artist_016,Ariana Grande,20
+user_040,artist_001,Tems,37
+user_040,artist_040,SZA,53
+user_040,artist_027,Coldplay,30
+user_040,artist_023,Olivia Rodrigo,23
+user_040,artist_019,Ed Sheeran,41
+user_041,artist_047,Sarkodie,21
+user_041,artist_004,Davido,11
+user_041,artist_015,Tiwa Savage,13
+user_041,artist_007,Asake,47
+user_041,artist_048,Shatta Wale,47
+user_041,artist_046,Amaarae,42
+user_041,artist_003,Burna Boy,101
+user_041,artist_050,Black Sherif,8
+user_041,artist_049,Stonebwoy,45
+user_041,artist_002,Wizkid,96
+user_042,artist_053,Headie One,144
+user_042,artist_050,Black Sherif,43
+user_042,artist_037,Stormzy,50
+user_042,artist_034,Future,58
+user_042,artist_051,Skepta,364
+user_042,artist_036,Central Cee,80
+user_042,artist_028,Drake,29
+user_042,artist_052,Little Simz,86
+user_042,artist_020,Dua Lipa,27
+user_042,artist_016,Ariana Grande,25
+user_042,artist_018,Billie Eilish,62
+user_043,artist_002,Wizkid,48
+user_043,artist_011,Joeboy,29
+user_043,artist_013,Kizz Daniel,79
+user_043,artist_015,Tiwa Savage,19
+user_043,artist_004,Davido,35
+user_043,artist_005,Ayra Starr,31
+user_043,artist_010,Omah Lay,44
+user_043,artist_009,Fireboy DML,55
+user_043,artist_048,Shatta Wale,18
+user_043,artist_007,Asake,55
+user_043,artist_050,Black Sherif,36
+user_044,artist_019,Ed Sheeran,22
+user_044,artist_018,Billie Eilish,55
+user_044,artist_026,Adele,103
+user_044,artist_023,Olivia Rodrigo,34
+user_044,artist_020,Dua Lipa,9
+user_044,artist_016,Ariana Grande,15
+user_044,artist_017,Taylor Swift,26
+user_044,artist_022,Bruno Mars,32
+user_044,artist_025,Lana Del Rey,26
+user_044,artist_021,Justin Bieber,35
+user_044,artist_027,Coldplay,28
+user_045,artist_038,Dave,176
+user_045,artist_030,Travis Scott,39
+user_045,artist_032,Doja Cat,20
+user_045,artist_028,Drake,48
+user_045,artist_036,Central Cee,22
+user_045,artist_039,J Hus,28
+user_045,artist_037,Stormzy,59
+user_045,artist_033,Nicki Minaj,66
+user_045,artist_007,Asake,23
+user_045,artist_002,Wizkid,66
+user_045,artist_047,Sarkodie,73
+user_046,artist_008,Tyla,157
+user_046,artist_001,Tems,41
+user_046,artist_045,Chris Brown,60
+user_046,artist_042,Beyonce,39
+user_046,artist_046,Amaarae,48
+user_046,artist_016,Ariana Grande,46
+user_046,artist_044,Khalid,61
+user_046,artist_043,Rihanna,98
+user_046,artist_025,Lana Del Rey,101
+user_046,artist_017,Taylor Swift,42
+user_046,artist_027,Coldplay,51
+user_047,artist_002,Wizkid,55
+user_047,artist_047,Sarkodie,36
+user_047,artist_046,Amaarae,57
+user_047,artist_004,Davido,6
+user_047,artist_007,Asake,59
+user_047,artist_015,Tiwa Savage,4
+user_047,artist_050,Black Sherif,15
+user_047,artist_048,Shatta Wale,61
+user_047,artist_003,Burna Boy,47
+user_047,artist_049,Stonebwoy,16
+user_048,artist_036,Central Cee,45
+user_048,artist_050,Black Sherif,19
+user_048,artist_053,Headie One,39
+user_048,artist_034,Future,28
+user_048,artist_028,Drake,84
+user_048,artist_038,Dave,47
+user_048,artist_051,Skepta,38
+user_048,artist_037,Stormzy,43
+user_048,artist_027,Coldplay,40
+user_048,artist_021,Justin Bieber,51
+user_048,artist_025,Lana Del Rey,18
+user_049,artist_015,Tiwa Savage,69
+user_049,artist_009,Fireboy DML,18
+user_049,artist_007,Asake,57
+user_049,artist_008,Tyla,37
+user_049,artist_012,CKay,33
+user_049,artist_010,Omah Lay,81
+user_049,artist_006,Rema,120
+user_049,artist_004,Davido,148
+user_049,artist_047,Sarkodie,81
+user_049,artist_003,Burna Boy,32
+user_049,artist_046,Amaarae,43
+user_050,artist_023,Olivia Rodrigo,71
+user_050,artist_016,Ariana Grande,36
+user_050,artist_019,Ed Sheeran,75
+user_050,artist_025,Lana Del Rey,59
+user_050,artist_021,Justin Bieber,20
+user_050,artist_022,Bruno Mars,118
+user_050,artist_024,Miley Cyrus,33
+user_050,artist_020,Dua Lipa,15
+user_050,artist_026,Adele,17
+user_050,artist_017,Taylor Swift,17
+user_050,artist_027,Coldplay,36
+user_051,artist_032,Doja Cat,47
+user_051,artist_033,Nicki Minaj,46
+user_051,artist_037,Stormzy,91
+user_051,artist_035,Metro Boomin,100
+user_051,artist_029,Kendrick Lamar,52
+user_051,artist_030,Travis Scott,33
+user_051,artist_031,Post Malone,63
+user_051,artist_036,Central Cee,32
+user_051,artist_003,Burna Boy,34
+user_051,artist_007,Asake,66
+user_051,artist_002,Wizkid,24
+user_052,artist_040,SZA,24
+user_052,artist_016,Ariana Grande,61
+user_052,artist_043,Rihanna,20
+user_052,artist_042,Beyonce,40
+user_052,artist_008,Tyla,49
+user_052,artist_044,Khalid,226
+user_052,artist_045,Chris Brown,18
+user_052,artist_046,Amaarae,120
+user_052,artist_019,Ed Sheeran,38
+user_052,artist_021,Justin Bieber,45
+user_052,artist_027,Coldplay,37
+user_053,artist_015,Tiwa Savage,118
+user_053,artist_007,Asake,43
+user_053,artist_002,Wizkid,40
+user_053,artist_049,Stonebwoy,22
+user_053,artist_048,Shatta Wale,39
+user_053,artist_003,Burna Boy,16
+user_053,artist_004,Davido,25
+user_053,artist_046,Amaarae,53
+user_053,artist_050,Black Sherif,82
+user_053,artist_047,Sarkodie,216
+user_054,artist_038,Dave,70
+user_054,artist_050,Black Sherif,38
+user_054,artist_037,Stormzy,31
+user_054,artist_028,Drake,46
+user_054,artist_053,Headie One,77
+user_054,artist_036,Central Cee,51
+user_054,artist_034,Future,30
+user_054,artist_039,J Hus,102
+user_054,artist_021,Justin Bieber,97
+user_054,artist_023,Olivia Rodrigo,48
+user_054,artist_018,Billie Eilish,65
+user_055,artist_014,Simi,79
+user_055,artist_013,Kizz Daniel,121
+user_055,artist_015,Tiwa Savage,38
+user_055,artist_003,Burna Boy,21
+user_055,artist_011,Joeboy,39
+user_055,artist_006,Rema,49
+user_055,artist_004,Davido,48
+user_055,artist_007,Asake,96
+user_055,artist_049,Stonebwoy,27
+user_055,artist_046,Amaarae,43
+user_055,artist_002,Wizkid,18
+user_056,artist_025,Lana Del Rey,25
+user_056,artist_024,Miley Cyrus,38
+user_056,artist_017,Taylor Swift,29
+user_056,artist_016,Ariana Grande,113
+user_056,artist_019,Ed Sheeran,41
+user_056,artist_026,Adele,106
+user_056,artist_018,Billie Eilish,48
+user_056,artist_020,Dua Lipa,47
+user_056,artist_023,Olivia Rodrigo,32
+user_056,artist_027,Coldplay,34
+user_056,artist_021,Justin Bieber,106
+user_057,artist_030,Travis Scott,86
+user_057,artist_036,Central Cee,55
+user_057,artist_029,Kendrick Lamar,32
+user_057,artist_034,Future,72
+user_057,artist_031,Post Malone,49
+user_057,artist_032,Doja Cat,46
+user_057,artist_035,Metro Boomin,120
+user_057,artist_038,Dave,9
+user_057,artist_004,Davido,13
+user_057,artist_048,Shatta Wale,16
+user_057,artist_047,Sarkodie,27
+user_058,artist_045,Chris Brown,42
+user_058,artist_041,The Weeknd,24
+user_058,artist_040,SZA,43
+user_058,artist_008,Tyla,16
+user_058,artist_043,Rihanna,28
+user_058,artist_046,Amaarae,50
+user_058,artist_044,Khalid,58
+user_058,artist_001,Tems,60
+user_058,artist_027,Coldplay,14
+user_058,artist_021,Justin Bieber,60
+user_058,artist_016,Ariana Grande,20
+user_059,artist_002,Wizkid,88
+user_059,artist_050,Black Sherif,39
+user_059,artist_047,Sarkodie,75
+user_059,artist_048,Shatta Wale,162
+user_059,artist_004,Davido,165
+user_059,artist_049,Stonebwoy,20
+user_059,artist_015,Tiwa Savage,25
+user_059,artist_003,Burna Boy,121
+user_059,artist_007,Asake,17
+user_059,artist_046,Amaarae,14
+user_060,artist_051,Skepta,33
+user_060,artist_034,Future,40
+user_060,artist_028,Drake,29
+user_060,artist_036,Central Cee,8
+user_060,artist_053,Headie One,18
+user_060,artist_052,Little Simz,14
+user_060,artist_038,Dave,10
+user_060,artist_037,Stormzy,21
+user_060,artist_019,Ed Sheeran,82
+user_060,artist_026,Adele,33
+user_060,artist_027,Coldplay,80
+user_061,artist_011,Joeboy,21
+user_061,artist_001,Tems,48
+user_061,artist_005,Ayra Starr,57
+user_061,artist_007,Asake,27
+user_061,artist_012,CKay,47
+user_061,artist_003,Burna Boy,66
+user_061,artist_002,Wizkid,69
+user_061,artist_006,Rema,126
+user_061,artist_046,Amaarae,79
+user_061,artist_015,Tiwa Savage,18
+user_061,artist_048,Shatta Wale,103
+user_062,artist_025,Lana Del Rey,56
+user_062,artist_022,Bruno Mars,28
+user_062,artist_019,Ed Sheeran,30
+user_062,artist_023,Olivia Rodrigo,76
+user_062,artist_018,Billie Eilish,45
+user_062,artist_024,Miley Cyrus,143
+user_062,artist_027,Coldplay,33
+user_062,artist_020,Dua Lipa,88
+user_062,artist_026,Adele,37
+user_062,artist_016,Ariana Grande,58
+user_062,artist_021,Justin Bieber,26
+user_063,artist_034,Future,30
+user_063,artist_039,J Hus,46
+user_063,artist_037,Stormzy,31
+user_063,artist_038,Dave,132
+user_063,artist_030,Travis Scott,58
+user_063,artist_031,Post Malone,40
+user_063,artist_036,Central Cee,100
+user_063,artist_032,Doja Cat,11
+user_063,artist_050,Black Sherif,9
+user_063,artist_004,Davido,58
+user_063,artist_015,Tiwa Savage,36
+user_064,artist_001,Tems,80
+user_064,artist_016,Ariana Grande,16
+user_064,artist_046,Amaarae,30
+user_064,artist_044,Khalid,21
+user_064,artist_043,Rihanna,24
+user_064,artist_041,The Weeknd,47
+user_064,artist_045,Chris Brown,11
+user_064,artist_008,Tyla,68
+user_064,artist_022,Bruno Mars,56
+user_064,artist_018,Billie Eilish,29
+user_064,artist_023,Olivia Rodrigo,6
+user_065,artist_007,Asake,152
+user_065,artist_002,Wizkid,40
+user_065,artist_046,Amaarae,59
+user_065,artist_048,Shatta Wale,17
+user_065,artist_003,Burna Boy,100
+user_065,artist_015,Tiwa Savage,28
+user_065,artist_049,Stonebwoy,32
+user_065,artist_050,Black Sherif,45
+user_065,artist_047,Sarkodie,12
+user_065,artist_004,Davido,40
+user_066,artist_028,Drake,154
+user_066,artist_037,Stormzy,62
+user_066,artist_036,Central Cee,70
+user_066,artist_051,Skepta,269
+user_066,artist_050,Black Sherif,40
+user_066,artist_053,Headie One,27
+user_066,artist_039,J Hus,61
+user_066,artist_038,Dave,61
+user_066,artist_018,Billie Eilish,24
+user_066,artist_021,Justin Bieber,17
+user_066,artist_026,Adele,156
+user_067,artist_008,Tyla,62
+user_067,artist_009,Fireboy DML,36
+user_067,artist_005,Ayra Starr,33
+user_067,artist_003,Burna Boy,35
+user_067,artist_006,Rema,39
+user_067,artist_007,Asake,36
+user_067,artist_001,Tems,83
+user_067,artist_015,Tiwa Savage,14
+user_067,artist_047,Sarkodie,60
+user_067,artist_048,Shatta Wale,27
+user_067,artist_046,Amaarae,44
+user_068,artist_027,Coldplay,66
+user_068,artist_022,Bruno Mars,51
+user_068,artist_017,Taylor Swift,55
+user_068,artist_026,Adele,120
+user_068,artist_020,Dua Lipa,102
+user_068,artist_016,Ariana Grande,7
+user_068,artist_023,Olivia Rodrigo,37
+user_068,artist_025,Lana Del Rey,41
+user_068,artist_024,Miley Cyrus,11
+user_068,artist_021,Justin Bieber,37
+user_068,artist_018,Billie Eilish,78
+user_069,artist_032,Doja Cat,41
+user_069,artist_028,Drake,67
+user_069,artist_038,Dave,18
+user_069,artist_036,Central Cee,99
+user_069,artist_031,Post Malone,37
+user_069,artist_035,Metro Boomin,40
+user_069,artist_037,Stormzy,33
+user_069,artist_030,Travis Scott,31
+user_069,artist_002,Wizkid,54
+user_069,artist_048,Shatta Wale,41
+user_069,artist_049,Stonebwoy,53
+user_070,artist_042,Beyonce,86
+user_070,artist_043,Rihanna,47
+user_070,artist_040,SZA,40
+user_070,artist_008,Tyla,40
+user_070,artist_044,Khalid,59
+user_070,artist_046,Amaarae,114
+user_070,artist_016,Ariana Grande,51
+user_070,artist_041,The Weeknd,25
+user_070,artist_017,Taylor Swift,59
+user_070,artist_022,Bruno Mars,63
+user_070,artist_018,Billie Eilish,53
+user_071,artist_046,Amaarae,6
+user_071,artist_050,Black Sherif,20
+user_071,artist_007,Asake,95
+user_071,artist_004,Davido,30
+user_071,artist_015,Tiwa Savage,58
+user_071,artist_047,Sarkodie,18
+user_071,artist_002,Wizkid,117
+user_071,artist_048,Shatta Wale,42
+user_071,artist_003,Burna Boy,42
+user_071,artist_049,Stonebwoy,157
+user_072,artist_036,Central Cee,49
+user_072,artist_037,Stormzy,147
+user_072,artist_053,Headie One,58
+user_072,artist_038,Dave,86
+user_072,artist_028,Drake,28
+user_072,artist_034,Future,26
+user_072,artist_039,J Hus,62
+user_072,artist_052,Little Simz,87
+user_072,artist_023,Olivia Rodrigo,35
+user_072,artist_021,Justin Bieber,15
+user_072,artist_020,Dua Lipa,14
+user_073,artist_014,Simi,35
+user_073,artist_002,Wizkid,140
+user_073,artist_003,Burna Boy,61
+user_073,artist_013,Kizz Daniel,66
+user_073,artist_009,Fireboy DML,49
+user_073,artist_005,Ayra Starr,57
+user_073,artist_012,CKay,76
+user_073,artist_006,Rema,27
+user_073,artist_047,Sarkodie,61
+user_073,artist_050,Black Sherif,14
+user_073,artist_048,Shatta Wale,43
+user_074,artist_022,Bruno Mars,21
+user_074,artist_027,Coldplay,31
+user_074,artist_018,Billie Eilish,30
+user_074,artist_021,Justin Bieber,109
+user_074,artist_025,Lana Del Rey,57
+user_074,artist_017,Taylor Swift,40
+user_074,artist_019,Ed Sheeran,63
+user_074,artist_023,Olivia Rodrigo,11
+user_074,artist_026,Adele,33
+user_074,artist_024,Miley Cyrus,127
+user_074,artist_020,Dua Lipa,37
+user_075,artist_038,Dave,20
+user_075,artist_036,Central Cee,7
+user_075,artist_034,Future,39
+user_075,artist_029,Kendrick Lamar,40
+user_075,artist_037,Stormzy,35
+user_075,artist_031,Post Malone,93
+user_075,artist_028,Drake,100
+user_075,artist_032,Doja Cat,41
+user_075,artist_002,Wizkid,8
+user_075,artist_003,Burna Boy,51
+user_075,artist_050,Black Sherif,49
+user_076,artist_044,Khalid,79
+user_076,artist_016,Ariana Grande,53
+user_076,artist_043,Rihanna,43
+user_076,artist_041,The Weeknd,112
+user_076,artist_045,Chris Brown,39
+user_076,artist_008,Tyla,14
+user_076,artist_042,Beyonce,27
+user_076,artist_001,Tems,66
+user_076,artist_026,Adele,45
+user_076,artist_023,Olivia Rodrigo,12
+user_076,artist_025,Lana Del Rey,21
+user_077,artist_049,Stonebwoy,50
+user_077,artist_004,Davido,27
+user_077,artist_046,Amaarae,21
+user_077,artist_007,Asake,25
+user_077,artist_048,Shatta Wale,30
+user_077,artist_047,Sarkodie,21
+user_077,artist_050,Black Sherif,51
+user_077,artist_002,Wizkid,74
+user_077,artist_003,Burna Boy,12
+user_077,artist_015,Tiwa Savage,35
+user_078,artist_034,Future,41
+user_078,artist_050,Black Sherif,66
+user_078,artist_053,Headie One,29
+user_078,artist_038,Dave,42
+user_078,artist_028,Drake,16
+user_078,artist_039,J Hus,10
+user_078,artist_051,Skepta,85
+user_078,artist_052,Little Simz,24
+user_078,artist_026,Adele,25
+user_078,artist_027,Coldplay,14
+user_078,artist_019,Ed Sheeran,13
+user_079,artist_014,Simi,105
+user_079,artist_013,Kizz Daniel,18
+user_079,artist_002,Wizkid,37
+user_079,artist_003,Burna Boy,111
+user_079,artist_005,Ayra Starr,64
+user_079,artist_007,Asake,52
+user_079,artist_012,CKay,40
+user_079,artist_009,Fireboy DML,36
+user_079,artist_046,Amaarae,41
+user_079,artist_015,Tiwa Savage,29
+user_079,artist_047,Sarkodie,33
+user_080,artist_024,Miley Cyrus,99
+user_080,artist_020,Dua Lipa,52
+user_080,artist_016,Ariana Grande,96
+user_080,artist_027,Coldplay,10
+user_080,artist_023,Olivia Rodrigo,129
+user_080,artist_021,Justin Bieber,58
+user_080,artist_022,Bruno Mars,93
+user_080,artist_017,Taylor Swift,20
+user_080,artist_026,Adele,20
+user_080,artist_018,Billie Eilish,38
+user_080,artist_025,Lana Del Rey,34
+user_081,artist_036,Central Cee,70
+user_081,artist_028,Drake,17
+user_081,artist_039,J Hus,47
+user_081,artist_033,Nicki Minaj,42
+user_081,artist_038,Dave,98
+user_081,artist_037,Stormzy,41
+user_081,artist_031,Post Malone,29
+user_081,artist_029,Kendrick Lamar,33
+user_081,artist_047,Sarkodie,79
+user_081,artist_015,Tiwa Savage,49
+user_081,artist_048,Shatta Wale,27
+user_082,artist_042,Beyonce,100
+user_082,artist_041,The Weeknd,29
+user_082,artist_008,Tyla,53
+user_082,artist_044,Khalid,46
+user_082,artist_046,Amaarae,55
+user_082,artist_001,Tems,29
+user_082,artist_040,SZA,43
+user_082,artist_016,Ariana Grande,16
+user_082,artist_020,Dua Lipa,38
+user_082,artist_027,Coldplay,46
+user_082,artist_026,Adele,30
+user_083,artist_003,Burna Boy,102
+user_083,artist_047,Sarkodie,30
+user_083,artist_002,Wizkid,70
+user_083,artist_049,Stonebwoy,32
+user_083,artist_046,Amaarae,54
+user_083,artist_048,Shatta Wale,42
+user_083,artist_007,Asake,81
+user_083,artist_004,Davido,32
+user_083,artist_050,Black Sherif,12
+user_083,artist_015,Tiwa Savage,14
+user_084,artist_050,Black Sherif,50
+user_084,artist_039,J Hus,10
+user_084,artist_036,Central Cee,53
+user_084,artist_053,Headie One,159
+user_084,artist_038,Dave,34
+user_084,artist_034,Future,54
+user_084,artist_037,Stormzy,89
+user_084,artist_028,Drake,41
+user_084,artist_016,Ariana Grande,23
+user_084,artist_027,Coldplay,7
+user_084,artist_019,Ed Sheeran,52
+user_085,artist_011,Joeboy,161
+user_085,artist_014,Simi,96
+user_085,artist_013,Kizz Daniel,49
+user_085,artist_009,Fireboy DML,25
+user_085,artist_002,Wizkid,32
+user_085,artist_012,CKay,48
+user_085,artist_003,Burna Boy,47
+user_085,artist_010,Omah Lay,43
+user_085,artist_007,Asake,34
+user_085,artist_047,Sarkodie,30
+user_085,artist_048,Shatta Wale,13
+user_086,artist_020,Dua Lipa,71
+user_086,artist_027,Coldplay,27
+user_086,artist_018,Billie Eilish,31
+user_086,artist_016,Ariana Grande,56
+user_086,artist_021,Justin Bieber,33
+user_086,artist_017,Taylor Swift,82
+user_086,artist_025,Lana Del Rey,27
+user_086,artist_023,Olivia Rodrigo,30
+user_086,artist_024,Miley Cyrus,22
+user_086,artist_019,Ed Sheeran,24
+user_086,artist_026,Adele,71
+user_087,artist_038,Dave,42
+user_087,artist_037,Stormzy,20
+user_087,artist_036,Central Cee,79
+user_087,artist_034,Future,25
+user_087,artist_032,Doja Cat,287
+user_087,artist_031,Post Malone,34
+user_087,artist_029,Kendrick Lamar,48
+user_087,artist_035,Metro Boomin,19
+user_087,artist_004,Davido,105
+user_087,artist_003,Burna Boy,72
+user_087,artist_047,Sarkodie,42
+user_088,artist_008,Tyla,95
+user_088,artist_043,Rihanna,16
+user_088,artist_041,The Weeknd,56
+user_088,artist_001,Tems,89
+user_088,artist_046,Amaarae,15
+user_088,artist_044,Khalid,45
+user_088,artist_016,Ariana Grande,55
+user_088,artist_042,Beyonce,38
+user_088,artist_022,Bruno Mars,10
+user_088,artist_025,Lana Del Rey,28
+user_088,artist_020,Dua Lipa,28
+user_089,artist_048,Shatta Wale,63
+user_089,artist_049,Stonebwoy,46
+user_089,artist_002,Wizkid,47
+user_089,artist_007,Asake,86
+user_089,artist_003,Burna Boy,12
+user_089,artist_050,Black Sherif,12
+user_089,artist_046,Amaarae,55
+user_089,artist_047,Sarkodie,46
+user_089,artist_004,Davido,38
+user_089,artist_015,Tiwa Savage,25
+user_090,artist_039,J Hus,80
+user_090,artist_034,Future,127
+user_090,artist_036,Central Cee,26
+user_090,artist_028,Drake,39
+user_090,artist_050,Black Sherif,75
+user_090,artist_052,Little Simz,47
+user_090,artist_053,Headie One,22
+user_090,artist_051,Skepta,60
+user_090,artist_021,Justin Bieber,50
+user_090,artist_019,Ed Sheeran,36
+user_090,artist_024,Miley Cyrus,40
+user_091,artist_014,Simi,22
+user_091,artist_009,Fireboy DML,35
+user_091,artist_004,Davido,71
+user_091,artist_011,Joeboy,30
+user_091,artist_007,Asake,53
+user_091,artist_003,Burna Boy,38
+user_091,artist_008,Tyla,71
+user_091,artist_005,Ayra Starr,62
+user_091,artist_049,Stonebwoy,22
+user_091,artist_047,Sarkodie,31
+user_091,artist_046,Amaarae,68
+user_092,artist_018,Billie Eilish,36
+user_092,artist_021,Justin Bieber,53
+user_092,artist_016,Ariana Grande,81
+user_092,artist_024,Miley Cyrus,32
+user_092,artist_026,Adele,30
+user_092,artist_019,Ed Sheeran,21
+user_092,artist_017,Taylor Swift,23
+user_092,artist_020,Dua Lipa,14
+user_092,artist_027,Coldplay,55
+user_092,artist_025,Lana Del Rey,112
+user_092,artist_022,Bruno Mars,87
+user_093,artist_039,J Hus,65
+user_093,artist_031,Post Malone,89
+user_093,artist_035,Metro Boomin,27
+user_093,artist_028,Drake,22
+user_093,artist_033,Nicki Minaj,11
+user_093,artist_032,Doja Cat,38
+user_093,artist_029,Kendrick Lamar,31
+user_093,artist_037,Stormzy,16
+user_093,artist_048,Shatta Wale,46
+user_093,artist_003,Burna Boy,25
+user_093,artist_002,Wizkid,17
+user_094,artist_041,The Weeknd,27
+user_094,artist_016,Ariana Grande,64
+user_094,artist_043,Rihanna,66
+user_094,artist_045,Chris Brown,6
+user_094,artist_008,Tyla,100
+user_094,artist_046,Amaarae,6
+user_094,artist_044,Khalid,30
+user_094,artist_042,Beyonce,89
+user_094,artist_026,Adele,28
+user_094,artist_024,Miley Cyrus,13
+user_094,artist_027,Coldplay,17
+user_095,artist_046,Amaarae,74
+user_095,artist_015,Tiwa Savage,15
+user_095,artist_049,Stonebwoy,35
+user_095,artist_004,Davido,26
+user_095,artist_007,Asake,107
+user_095,artist_050,Black Sherif,19
+user_095,artist_048,Shatta Wale,131
+user_095,artist_003,Burna Boy,45
+user_095,artist_002,Wizkid,16
+user_095,artist_047,Sarkodie,22
+user_096,artist_050,Black Sherif,169
+user_096,artist_034,Future,47
+user_096,artist_036,Central Cee,54
+user_096,artist_038,Dave,14
+user_096,artist_037,Stormzy,30
+user_096,artist_028,Drake,53
+user_096,artist_052,Little Simz,23
+user_096,artist_051,Skepta,83
+user_096,artist_025,Lana Del Rey,15
+user_096,artist_020,Dua Lipa,28
+user_096,artist_022,Bruno Mars,23
+user_097,artist_015,Tiwa Savage,39
+user_097,artist_006,Rema,37
+user_097,artist_014,Simi,49
+user_097,artist_007,Asake,139
+user_097,artist_002,Wizkid,19
+user_097,artist_003,Burna Boy,76
+user_097,artist_004,Davido,13
+user_097,artist_008,Tyla,53
+user_097,artist_050,Black Sherif,96
+user_097,artist_047,Sarkodie,47
+user_097,artist_049,Stonebwoy,38
+user_098,artist_018,Billie Eilish,65
+user_098,artist_024,Miley Cyrus,53
+user_098,artist_027,Coldplay,86
+user_098,artist_021,Justin Bieber,48
+user_098,artist_016,Ariana Grande,59
+user_098,artist_023,Olivia Rodrigo,56
+user_098,artist_019,Ed Sheeran,43
+user_098,artist_020,Dua Lipa,32
+user_098,artist_026,Adele,146
+user_098,artist_025,Lana Del Rey,25
+user_098,artist_017,Taylor Swift,22
+user_099,artist_029,Kendrick Lamar,70
+user_099,artist_039,J Hus,45
+user_099,artist_035,Metro Boomin,129
+user_099,artist_037,Stormzy,51
+user_099,artist_034,Future,45
+user_099,artist_038,Dave,30
+user_099,artist_032,Doja Cat,67
+user_099,artist_031,Post Malone,62
+user_099,artist_046,Amaarae,35
+user_099,artist_047,Sarkodie,20
+user_099,artist_049,Stonebwoy,37
+user_100,artist_042,Beyonce,35
+user_100,artist_044,Khalid,49
+user_100,artist_016,Ariana Grande,74
+user_100,artist_041,The Weeknd,34
+user_100,artist_043,Rihanna,88
+user_100,artist_008,Tyla,24
+user_100,artist_046,Amaarae,55
+user_100,artist_045,Chris Brown,84
+user_100,artist_019,Ed Sheeran,53
+user_100,artist_025,Lana Del Rey,120
+user_100,artist_027,Coldplay,21
+user_101,artist_003,Burna Boy,296
+user_101,artist_002,Wizkid,58
+user_101,artist_007,Asake,67
+user_101,artist_046,Amaarae,33
+user_101,artist_050,Black Sherif,14
+user_101,artist_047,Sarkodie,31
+user_101,artist_049,Stonebwoy,22
+user_101,artist_048,Shatta Wale,18
+user_101,artist_015,Tiwa Savage,106
+user_101,artist_004,Davido,41
+user_102,artist_037,Stormzy,38
+user_102,artist_053,Headie One,47
+user_102,artist_039,J Hus,20
+user_102,artist_050,Black Sherif,45
+user_102,artist_051,Skepta,47
+user_102,artist_036,Central Cee,11
+user_102,artist_038,Dave,25
+user_102,artist_034,Future,60
+user_102,artist_027,Coldplay,44
+user_102,artist_016,Ariana Grande,16
+user_102,artist_018,Billie Eilish,38
+user_103,artist_010,Omah Lay,49
+user_103,artist_001,Tems,76
+user_103,artist_015,Tiwa Savage,81
+user_103,artist_004,Davido,27
+user_103,artist_002,Wizkid,14
+user_103,artist_006,Rema,126
+user_103,artist_008,Tyla,54
+user_103,artist_012,CKay,15
+user_103,artist_003,Burna Boy,21
+user_103,artist_050,Black Sherif,57
+user_103,artist_007,Asake,29
+user_104,artist_022,Bruno Mars,39
+user_104,artist_027,Coldplay,48
+user_104,artist_021,Justin Bieber,49
+user_104,artist_026,Adele,53
+user_104,artist_024,Miley Cyrus,76
+user_104,artist_020,Dua Lipa,66
+user_104,artist_025,Lana Del Rey,47
+user_104,artist_018,Billie Eilish,27
+user_104,artist_023,Olivia Rodrigo,36
+user_104,artist_019,Ed Sheeran,34
+user_104,artist_017,Taylor Swift,39
+user_105,artist_030,Travis Scott,54
+user_105,artist_037,Stormzy,80
+user_105,artist_029,Kendrick Lamar,56
+user_105,artist_033,Nicki Minaj,104
+user_105,artist_035,Metro Boomin,43
+user_105,artist_032,Doja Cat,37
+user_105,artist_039,J Hus,267
+user_105,artist_038,Dave,59
+user_105,artist_004,Davido,21
+user_105,artist_050,Black Sherif,22
+user_105,artist_003,Burna Boy,18
+user_106,artist_046,Amaarae,27
+user_106,artist_042,Beyonce,71
+user_106,artist_001,Tems,28
+user_106,artist_008,Tyla,32
+user_106,artist_043,Rihanna,25
+user_106,artist_045,Chris Brown,107
+user_106,artist_040,SZA,69
+user_106,artist_044,Khalid,68
+user_106,artist_025,Lana Del Rey,78
+user_106,artist_019,Ed Sheeran,216
+user_106,artist_018,Billie Eilish,11
+user_107,artist_007,Asake,63
+user_107,artist_050,Black Sherif,64
+user_107,artist_002,Wizkid,68
+user_107,artist_047,Sarkodie,36
+user_107,artist_049,Stonebwoy,183
+user_107,artist_046,Amaarae,53
+user_107,artist_015,Tiwa Savage,13
+user_107,artist_003,Burna Boy,24
+user_107,artist_004,Davido,11
+user_107,artist_048,Shatta Wale,35
+user_108,artist_034,Future,41
+user_108,artist_051,Skepta,46
+user_108,artist_053,Headie One,40
+user_108,artist_036,Central Cee,27
+user_108,artist_037,Stormzy,32
+user_108,artist_038,Dave,41
+user_108,artist_050,Black Sherif,49
+user_108,artist_028,Drake,68
+user_108,artist_023,Olivia Rodrigo,70
+user_108,artist_020,Dua Lipa,28
+user_108,artist_018,Billie Eilish,25
+user_109,artist_009,Fireboy DML,43
+user_109,artist_006,Rema,30
+user_109,artist_001,Tems,17
+user_109,artist_008,Tyla,49
+user_109,artist_004,Davido,28
+user_109,artist_011,Joeboy,48
+user_109,artist_014,Simi,27
+user_109,artist_012,CKay,22
+user_109,artist_050,Black Sherif,40
+user_109,artist_047,Sarkodie,38
+user_109,artist_048,Shatta Wale,50
+user_110,artist_026,Adele,25
+user_110,artist_025,Lana Del Rey,37
+user_110,artist_016,Ariana Grande,102
+user_110,artist_021,Justin Bieber,27
+user_110,artist_023,Olivia Rodrigo,18
+user_110,artist_020,Dua Lipa,85
+user_110,artist_022,Bruno Mars,63
+user_110,artist_018,Billie Eilish,30
+user_110,artist_017,Taylor Swift,12
+user_110,artist_019,Ed Sheeran,21
+user_110,artist_027,Coldplay,33
+user_111,artist_030,Travis Scott,66
+user_111,artist_039,J Hus,9
+user_111,artist_038,Dave,27
+user_111,artist_032,Doja Cat,50
+user_111,artist_034,Future,40
+user_111,artist_037,Stormzy,63
+user_111,artist_035,Metro Boomin,77
+user_111,artist_033,Nicki Minaj,68
+user_111,artist_007,Asake,30
+user_111,artist_003,Burna Boy,10
+user_111,artist_046,Amaarae,25
+user_112,artist_045,Chris Brown,103
+user_112,artist_043,Rihanna,46
+user_112,artist_042,Beyonce,94
+user_112,artist_008,Tyla,55
+user_112,artist_001,Tems,62
+user_112,artist_016,Ariana Grande,58
+user_112,artist_040,SZA,72
+user_112,artist_044,Khalid,203
+user_112,artist_023,Olivia Rodrigo,65
+user_112,artist_018,Billie Eilish,12
+user_112,artist_026,Adele,46
+user_113,artist_047,Sarkodie,33
+user_113,artist_004,Davido,25
+user_113,artist_003,Burna Boy,7
+user_113,artist_046,Amaarae,34
+user_113,artist_002,Wizkid,58
+user_113,artist_015,Tiwa Savage,33
+user_113,artist_007,Asake,162
+user_113,artist_049,Stonebwoy,46
+user_113,artist_050,Black Sherif,80
+user_113,artist_048,Shatta Wale,41
+user_114,artist_038,Dave,60
+user_114,artist_052,Little Simz,104
+user_114,artist_051,Skepta,96
+user_114,artist_050,Black Sherif,46
+user_114,artist_034,Future,9
+user_114,artist_028,Drake,64
+user_114,artist_036,Central Cee,10
+user_114,artist_053,Headie One,120
+user_114,artist_016,Ariana Grande,38
+user_114,artist_024,Miley Cyrus,66
+user_114,artist_020,Dua Lipa,19
+user_115,artist_001,Tems,40
+user_115,artist_014,Simi,12
+user_115,artist_008,Tyla,40
+user_115,artist_011,Joeboy,78
+user_115,artist_015,Tiwa Savage,24
+user_115,artist_002,Wizkid,41
+user_115,artist_003,Burna Boy,29
+user_115,artist_005,Ayra Starr,122
+user_115,artist_047,Sarkodie,56
+user_115,artist_046,Amaarae,53
+user_115,artist_048,Shatta Wale,52
+user_116,artist_024,Miley Cyrus,36
+user_116,artist_018,Billie Eilish,63
+user_116,artist_021,Justin Bieber,239
+user_116,artist_027,Coldplay,120
+user_116,artist_025,Lana Del Rey,95
+user_116,artist_026,Adele,35
+user_116,artist_019,Ed Sheeran,26
+user_116,artist_020,Dua Lipa,77
+user_116,artist_017,Taylor Swift,17
+user_116,artist_022,Bruno Mars,29
+user_116,artist_023,Olivia Rodrigo,32
+user_117,artist_029,Kendrick Lamar,33
+user_117,artist_033,Nicki Minaj,72
+user_117,artist_035,Metro Boomin,31
+user_117,artist_028,Drake,16
+user_117,artist_037,Stormzy,71
+user_117,artist_036,Central Cee,95
+user_117,artist_039,J Hus,44
+user_117,artist_032,Doja Cat,12
+user_117,artist_047,Sarkodie,55
+user_117,artist_015,Tiwa Savage,11
+user_117,artist_004,Davido,42
+user_118,artist_041,The Weeknd,26
+user_118,artist_044,Khalid,15
+user_118,artist_043,Rihanna,55
+user_118,artist_042,Beyonce,36
+user_118,artist_008,Tyla,9
+user_118,artist_016,Ariana Grande,32
+user_118,artist_040,SZA,25
+user_118,artist_045,Chris Brown,128
+user_118,artist_019,Ed Sheeran,11
+user_118,artist_022,Bruno Mars,13
+user_118,artist_024,Miley Cyrus,71
+user_119,artist_002,Wizkid,34
+user_119,artist_007,Asake,49
+user_119,artist_048,Shatta Wale,96
+user_119,artist_046,Amaarae,181
+user_119,artist_049,Stonebwoy,31
+user_119,artist_050,Black Sherif,45
+user_119,artist_015,Tiwa Savage,151
+user_119,artist_003,Burna Boy,17
+user_119,artist_004,Davido,67
+user_119,artist_047,Sarkodie,17
+user_120,artist_050,Black Sherif,66
+user_120,artist_028,Drake,24
+user_120,artist_037,Stormzy,74
+user_120,artist_038,Dave,78
+user_120,artist_052,Little Simz,251
+user_120,artist_051,Skepta,36
+user_120,artist_034,Future,34
+user_120,artist_053,Headie One,76
+user_120,artist_016,Ariana Grande,59
+user_120,artist_026,Adele,24
+user_120,artist_027,Coldplay,26
+user_121,artist_009,Fireboy DML,41
+user_121,artist_013,Kizz Daniel,21
+user_121,artist_005,Ayra Starr,29
+user_121,artist_014,Simi,27
+user_121,artist_007,Asake,34
+user_121,artist_001,Tems,109
+user_121,artist_011,Joeboy,71
+user_121,artist_010,Omah Lay,46
+user_121,artist_049,Stonebwoy,25
+user_121,artist_003,Burna Boy,26
+user_121,artist_047,Sarkodie,43
+user_122,artist_021,Justin Bieber,45
+user_122,artist_026,Adele,43
+user_122,artist_016,Ariana Grande,42
+user_122,artist_022,Bruno Mars,49
+user_122,artist_025,Lana Del Rey,80
+user_122,artist_023,Olivia Rodrigo,113
+user_122,artist_027,Coldplay,46
+user_122,artist_018,Billie Eilish,78
+user_122,artist_024,Miley Cyrus,22
+user_122,artist_020,Dua Lipa,57
+user_122,artist_019,Ed Sheeran,21
+user_123,artist_036,Central Cee,101
+user_123,artist_039,J Hus,84
+user_123,artist_030,Travis Scott,124
+user_123,artist_028,Drake,58
+user_123,artist_034,Future,83
+user_123,artist_035,Metro Boomin,37
+user_123,artist_031,Post Malone,31
+user_123,artist_029,Kendrick Lamar,140
+user_123,artist_004,Davido,40
+user_123,artist_049,Stonebwoy,58
+user_123,artist_046,Amaarae,37
+user_124,artist_041,The Weeknd,14
+user_124,artist_046,Amaarae,158
+user_124,artist_043,Rihanna,72
+user_124,artist_008,Tyla,44
+user_124,artist_044,Khalid,36
+user_124,artist_045,Chris Brown,93
+user_124,artist_001,Tems,32
+user_124,artist_042,Beyonce,97
+user_124,artist_027,Coldplay,49
+user_124,artist_017,Taylor Swift,40
+user_124,artist_026,Adele,38
+user_125,artist_002,Wizkid,37
+user_125,artist_050,Black Sherif,77
+user_125,artist_003,Burna Boy,44
+user_125,artist_007,Asake,33
+user_125,artist_015,Tiwa Savage,37
+user_125,artist_046,Amaarae,171
+user_125,artist_049,Stonebwoy,14
+user_125,artist_047,Sarkodie,63
+user_125,artist_004,Davido,11
+user_125,artist_048,Shatta Wale,32
+user_126,artist_028,Drake,109
+user_126,artist_038,Dave,137
+user_126,artist_034,Future,96
+user_126,artist_052,Little Simz,25
+user_126,artist_039,J Hus,52
+user_126,artist_036,Central Cee,61
+user_126,artist_037,Stormzy,14
+user_126,artist_050,Black Sherif,62
+user_126,artist_025,Lana Del Rey,152
+user_126,artist_021,Justin Bieber,52
+user_126,artist_026,Adele,90
+user_127,artist_013,Kizz Daniel,57
+user_127,artist_014,Simi,62
+user_127,artist_012,CKay,88
+user_127,artist_008,Tyla,48
+user_127,artist_003,Burna Boy,115
+user_127,artist_010,Omah Lay,56
+user_127,artist_009,Fireboy DML,69
+user_127,artist_006,Rema,26
+user_127,artist_049,Stonebwoy,141
+user_127,artist_048,Shatta Wale,47
+user_127,artist_015,Tiwa Savage,55
+user_128,artist_018,Billie Eilish,99
+user_128,artist_025,Lana Del Rey,25
+user_128,artist_020,Dua Lipa,24
+user_128,artist_019,Ed Sheeran,40
+user_128,artist_026,Adele,79
+user_128,artist_027,Coldplay,19
+user_128,artist_021,Justin Bieber,15
+user_128,artist_016,Ariana Grande,78
+user_128,artist_017,Taylor Swift,23
+user_128,artist_024,Miley Cyrus,26
+user_128,artist_023,Olivia Rodrigo,10
+user_129,artist_037,Stormzy,41
+user_129,artist_032,Doja Cat,111
+user_129,artist_035,Metro Boomin,119
+user_129,artist_033,Nicki Minaj,27
+user_129,artist_029,Kendrick Lamar,44
+user_129,artist_039,J Hus,49
+user_129,artist_036,Central Cee,24
+user_129,artist_038,Dave,44
+user_129,artist_015,Tiwa Savage,34
+user_129,artist_049,Stonebwoy,73
+user_129,artist_046,Amaarae,76
+user_130,artist_008,Tyla,134
+user_130,artist_016,Ariana Grande,33
+user_130,artist_040,SZA,55
+user_130,artist_042,Beyonce,218
+user_130,artist_041,The Weeknd,23
+user_130,artist_045,Chris Brown,13
+user_130,artist_001,Tems,106
+user_130,artist_046,Amaarae,27
+user_130,artist_022,Bruno Mars,34
+user_130,artist_017,Taylor Swift,23
+user_130,artist_024,Miley Cyrus,41
+user_131,artist_004,Davido,49
+user_131,artist_048,Shatta Wale,35
+user_131,artist_050,Black Sherif,38
+user_131,artist_049,Stonebwoy,45
+user_131,artist_015,Tiwa Savage,30
+user_131,artist_007,Asake,72
+user_131,artist_002,Wizkid,117
+user_131,artist_046,Amaarae,34
+user_131,artist_047,Sarkodie,47
+user_131,artist_003,Burna Boy,29
+user_132,artist_052,Little Simz,50
+user_132,artist_038,Dave,14
+user_132,artist_053,Headie One,39
+user_132,artist_034,Future,106
+user_132,artist_036,Central Cee,13
+user_132,artist_050,Black Sherif,20
+user_132,artist_051,Skepta,23
+user_132,artist_037,Stormzy,44
+user_132,artist_021,Justin Bieber,27
+user_132,artist_025,Lana Del Rey,86
+user_132,artist_019,Ed Sheeran,64
+user_133,artist_006,Rema,59
+user_133,artist_015,Tiwa Savage,7
+user_133,artist_009,Fireboy DML,56
+user_133,artist_014,Simi,42
+user_133,artist_007,Asake,44
+user_133,artist_011,Joeboy,73
+user_133,artist_005,Ayra Starr,44
+user_133,artist_012,CKay,22
+user_133,artist_004,Davido,31
+user_133,artist_050,Black Sherif,36
+user_133,artist_003,Burna Boy,37
+user_134,artist_024,Miley Cyrus,41
+user_134,artist_018,Billie Eilish,152
+user_134,artist_026,Adele,20
+user_134,artist_023,Olivia Rodrigo,21
+user_134,artist_017,Taylor Swift,19
+user_134,artist_027,Coldplay,142
+user_134,artist_019,Ed Sheeran,34
+user_134,artist_016,Ariana Grande,45
+user_134,artist_021,Justin Bieber,26
+user_134,artist_025,Lana Del Rey,18
+user_134,artist_022,Bruno Mars,29
+user_135,artist_031,Post Malone,41
+user_135,artist_035,Metro Boomin,75
+user_135,artist_032,Doja Cat,59
+user_135,artist_028,Drake,35
+user_135,artist_037,Stormzy,16
+user_135,artist_033,Nicki Minaj,49
+user_135,artist_029,Kendrick Lamar,93
+user_135,artist_036,Central Cee,21
+user_135,artist_015,Tiwa Savage,52
+user_135,artist_003,Burna Boy,43
+user_135,artist_048,Shatta Wale,56
+user_136,artist_016,Ariana Grande,76
+user_136,artist_001,Tems,86
+user_136,artist_044,Khalid,67
+user_136,artist_008,Tyla,39
+user_136,artist_046,Amaarae,41
+user_136,artist_040,SZA,35
+user_136,artist_045,Chris Brown,256
+user_136,artist_041,The Weeknd,66
+user_136,artist_018,Billie Eilish,25
+user_136,artist_023,Olivia Rodrigo,47
+user_136,artist_019,Ed Sheeran,18
+user_137,artist_046,Amaarae,34
+user_137,artist_007,Asake,120
+user_137,artist_047,Sarkodie,43
+user_137,artist_050,Black Sherif,27
+user_137,artist_048,Shatta Wale,33
+user_137,artist_015,Tiwa Savage,94
+user_137,artist_049,Stonebwoy,71
+user_137,artist_002,Wizkid,66
+user_137,artist_004,Davido,29
+user_137,artist_003,Burna Boy,50
+user_138,artist_052,Little Simz,18
+user_138,artist_036,Central Cee,30
+user_138,artist_037,Stormzy,36
+user_138,artist_051,Skepta,35
+user_138,artist_038,Dave,32
+user_138,artist_053,Headie One,46
+user_138,artist_034,Future,32
+user_138,artist_028,Drake,17
+user_138,artist_026,Adele,57
+user_138,artist_023,Olivia Rodrigo,56
+user_138,artist_022,Bruno Mars,60
+user_139,artist_005,Ayra Starr,25
+user_139,artist_003,Burna Boy,87
+user_139,artist_010,Omah Lay,86
+user_139,artist_014,Simi,24
+user_139,artist_007,Asake,63
+user_139,artist_006,Rema,43
+user_139,artist_012,CKay,66
+user_139,artist_001,Tems,53
+user_139,artist_050,Black Sherif,75
+user_139,artist_002,Wizkid,36
+user_139,artist_046,Amaarae,31
+user_140,artist_023,Olivia Rodrigo,117
+user_140,artist_022,Bruno Mars,112
+user_140,artist_017,Taylor Swift,54
+user_140,artist_020,Dua Lipa,27
+user_140,artist_025,Lana Del Rey,128
+user_140,artist_026,Adele,44
+user_140,artist_027,Coldplay,50
+user_140,artist_016,Ariana Grande,37
+user_140,artist_024,Miley Cyrus,19
+user_140,artist_018,Billie Eilish,13
+user_140,artist_021,Justin Bieber,52
+user_141,artist_028,Drake,22
+user_141,artist_037,Stormzy,13
+user_141,artist_031,Post Malone,49
+user_141,artist_032,Doja Cat,10
+user_141,artist_035,Metro Boomin,19
+user_141,artist_030,Travis Scott,32
+user_141,artist_034,Future,26
+user_141,artist_036,Central Cee,59
+user_141,artist_015,Tiwa Savage,42
+user_141,artist_007,Asake,62
+user_141,artist_002,Wizkid,56
+user_142,artist_046,Amaarae,30
+user_142,artist_016,Ariana Grande,30
+user_142,artist_001,Tems,21
+user_142,artist_045,Chris Brown,87
+user_142,artist_044,Khalid,48
+user_142,artist_040,SZA,26
+user_142,artist_043,Rihanna,78
+user_142,artist_041,The Weeknd,32
+user_142,artist_024,Miley Cyrus,13
+user_142,artist_020,Dua Lipa,67
+user_142,artist_018,Billie Eilish,24
+user_143,artist_049,Stonebwoy,46
+user_143,artist_050,Black Sherif,10
+user_143,artist_048,Shatta Wale,58
+user_143,artist_004,Davido,163
+user_143,artist_047,Sarkodie,128
+user_143,artist_007,Asake,151
+user_143,artist_046,Amaarae,23
+user_143,artist_002,Wizkid,83
+user_143,artist_003,Burna Boy,21
+user_143,artist_015,Tiwa Savage,40
+user_144,artist_037,Stormzy,99
+user_144,artist_034,Future,91
+user_144,artist_038,Dave,28
+user_144,artist_036,Central Cee,7
+user_144,artist_039,J Hus,14
+user_144,artist_051,Skepta,116
+user_144,artist_050,Black Sherif,35
+user_144,artist_053,Headie One,28
+user_144,artist_022,Bruno Mars,101
+user_144,artist_017,Taylor Swift,79
+user_144,artist_018,Billie Eilish,35
+user_145,artist_007,Asake,37
+user_145,artist_003,Burna Boy,9
+user_145,artist_004,Davido,11
+user_145,artist_011,Joeboy,23
+user_145,artist_010,Omah Lay,65
+user_145,artist_013,Kizz Daniel,49
+user_145,artist_009,Fireboy DML,52
+user_145,artist_006,Rema,164
+user_145,artist_049,Stonebwoy,15
+user_145,artist_047,Sarkodie,34
+user_145,artist_050,Black Sherif,42
+user_146,artist_027,Coldplay,31
+user_146,artist_018,Billie Eilish,49
+user_146,artist_017,Taylor Swift,56
+user_146,artist_025,Lana Del Rey,27
+user_146,artist_023,Olivia Rodrigo,42
+user_146,artist_026,Adele,31
+user_146,artist_019,Ed Sheeran,206
+user_146,artist_016,Ariana Grande,43
+user_146,artist_021,Justin Bieber,95
+user_146,artist_020,Dua Lipa,30
+user_146,artist_022,Bruno Mars,41
+user_147,artist_037,Stormzy,218
+user_147,artist_034,Future,33
+user_147,artist_032,Doja Cat,28
+user_147,artist_031,Post Malone,21
+user_147,artist_029,Kendrick Lamar,210
+user_147,artist_035,Metro Boomin,78
+user_147,artist_033,Nicki Minaj,37
+user_147,artist_030,Travis Scott,104
+user_147,artist_049,Stonebwoy,54
+user_147,artist_048,Shatta Wale,124
+user_147,artist_050,Black Sherif,12
+user_148,artist_001,Tems,87
+user_148,artist_044,Khalid,31
+user_148,artist_042,Beyonce,30
+user_148,artist_040,SZA,91
+user_148,artist_046,Amaarae,59
+user_148,artist_016,Ariana Grande,12
+user_148,artist_043,Rihanna,20
+user_148,artist_008,Tyla,122
+user_148,artist_022,Bruno Mars,45
+user_148,artist_020,Dua Lipa,21
+user_148,artist_025,Lana Del Rey,31
+user_149,artist_047,Sarkodie,58
+user_149,artist_007,Asake,93
+user_149,artist_015,Tiwa Savage,63
+user_149,artist_050,Black Sherif,50
+user_149,artist_003,Burna Boy,43
+user_149,artist_002,Wizkid,26
+user_149,artist_004,Davido,44
+user_149,artist_048,Shatta Wale,104
+user_149,artist_049,Stonebwoy,32
+user_149,artist_046,Amaarae,19
+user_150,artist_028,Drake,43
+user_150,artist_036,Central Cee,34
+user_150,artist_050,Black Sherif,22
+user_150,artist_051,Skepta,34
+user_150,artist_037,Stormzy,33
+user_150,artist_034,Future,29
+user_150,artist_038,Dave,37
+user_150,artist_039,J Hus,99
+user_150,artist_018,Billie Eilish,39
+user_150,artist_024,Miley Cyrus,173
+user_150,artist_016,Ariana Grande,38
+user_151,artist_008,Tyla,105
+user_151,artist_009,Fireboy DML,26
+user_151,artist_014,Simi,45
+user_151,artist_012,CKay,15
+user_151,artist_005,Ayra Starr,20
+user_151,artist_013,Kizz Daniel,91
+user_151,artist_011,Joeboy,34
+user_151,artist_001,Tems,22
+user_151,artist_003,Burna Boy,40
+user_151,artist_050,Black Sherif,24
+user_151,artist_047,Sarkodie,25
+user_152,artist_023,Olivia Rodrigo,22
+user_152,artist_027,Coldplay,109
+user_152,artist_017,Taylor Swift,30
+user_152,artist_022,Bruno Mars,171
+user_152,artist_026,Adele,67
+user_152,artist_024,Miley Cyrus,23
+user_152,artist_019,Ed Sheeran,32
+user_152,artist_018,Billie Eilish,76
+user_152,artist_025,Lana Del Rey,69
+user_152,artist_021,Justin Bieber,33
+user_152,artist_016,Ariana Grande,35
+user_153,artist_035,Metro Boomin,29
+user_153,artist_037,Stormzy,41
+user_153,artist_034,Future,27
+user_153,artist_036,Central Cee,20
+user_153,artist_030,Travis Scott,57
+user_153,artist_033,Nicki Minaj,52
+user_153,artist_028,Drake,72
+user_153,artist_031,Post Malone,65
+user_153,artist_007,Asake,40
+user_153,artist_015,Tiwa Savage,49
+user_153,artist_048,Shatta Wale,33
+user_154,artist_041,The Weeknd,92
+user_154,artist_008,Tyla,65
+user_154,artist_045,Chris Brown,166
+user_154,artist_001,Tems,40
+user_154,artist_040,SZA,331
+user_154,artist_044,Khalid,39
+user_154,artist_046,Amaarae,54
+user_154,artist_016,Ariana Grande,35
+user_154,artist_027,Coldplay,44
+user_154,artist_026,Adele,59
+user_154,artist_018,Billie Eilish,32
+user_155,artist_015,Tiwa Savage,262
+user_155,artist_048,Shatta Wale,38
+user_155,artist_047,Sarkodie,17
+user_155,artist_046,Amaarae,29
+user_155,artist_007,Asake,44
+user_155,artist_050,Black Sherif,65
+user_155,artist_003,Burna Boy,66
+user_155,artist_002,Wizkid,71
+user_155,artist_004,Davido,22
+user_155,artist_049,Stonebwoy,43
+user_156,artist_038,Dave,80
+user_156,artist_037,Stormzy,51
+user_156,artist_050,Black Sherif,69
+user_156,artist_034,Future,59
+user_156,artist_051,Skepta,24
+user_156,artist_039,J Hus,17
+user_156,artist_028,Drake,29
+user_156,artist_053,Headie One,66
+user_156,artist_021,Justin Bieber,54
+user_156,artist_019,Ed Sheeran,14
+user_156,artist_024,Miley Cyrus,18
+user_157,artist_011,Joeboy,40
+user_157,artist_003,Burna Boy,89
+user_157,artist_010,Omah Lay,35
+user_157,artist_014,Simi,31
+user_157,artist_004,Davido,98
+user_157,artist_005,Ayra Starr,37
+user_157,artist_001,Tems,94
+user_157,artist_006,Rema,61
+user_157,artist_007,Asake,27
+user_157,artist_015,Tiwa Savage,47
+user_157,artist_047,Sarkodie,42
+user_158,artist_026,Adele,197
+user_158,artist_023,Olivia Rodrigo,88
+user_158,artist_027,Coldplay,116
+user_158,artist_024,Miley Cyrus,48
+user_158,artist_022,Bruno Mars,15
+user_158,artist_016,Ariana Grande,13
+user_158,artist_017,Taylor Swift,54
+user_158,artist_021,Justin Bieber,31
+user_158,artist_018,Billie Eilish,19
+user_158,artist_019,Ed Sheeran,33
+user_158,artist_020,Dua Lipa,51
+user_159,artist_039,J Hus,21
+user_159,artist_035,Metro Boomin,95
+user_159,artist_028,Drake,26
+user_159,artist_029,Kendrick Lamar,54
+user_159,artist_033,Nicki Minaj,54
+user_159,artist_036,Central Cee,63
+user_159,artist_031,Post Malone,57
+user_159,artist_032,Doja Cat,26
+user_159,artist_049,Stonebwoy,14
+user_159,artist_046,Amaarae,61
+user_159,artist_050,Black Sherif,39
+user_160,artist_008,Tyla,49
+user_160,artist_044,Khalid,22
+user_160,artist_016,Ariana Grande,57
+user_160,artist_041,The Weeknd,131
+user_160,artist_040,SZA,33
+user_160,artist_001,Tems,59
+user_160,artist_043,Rihanna,7
+user_160,artist_045,Chris Brown,45
+user_160,artist_020,Dua Lipa,28
+user_160,artist_027,Coldplay,20
+user_160,artist_018,Billie Eilish,70
+user_161,artist_048,Shatta Wale,143
+user_161,artist_003,Burna Boy,76
+user_161,artist_002,Wizkid,32
+user_161,artist_047,Sarkodie,107
+user_161,artist_050,Black Sherif,28
+user_161,artist_046,Amaarae,89
+user_161,artist_049,Stonebwoy,19
+user_161,artist_007,Asake,92
+user_161,artist_015,Tiwa Savage,26
+user_161,artist_004,Davido,17
+user_162,artist_039,J Hus,66
+user_162,artist_050,Black Sherif,176
+user_162,artist_051,Skepta,85
+user_162,artist_052,Little Simz,87
+user_162,artist_036,Central Cee,344
+user_162,artist_037,Stormzy,64
+user_162,artist_038,Dave,63
+user_162,artist_053,Headie One,73
+user_162,artist_019,Ed Sheeran,18
+user_162,artist_024,Miley Cyrus,26
+user_162,artist_021,Justin Bieber,25
+user_163,artist_010,Omah Lay,37
+user_163,artist_014,Simi,51
+user_163,artist_004,Davido,76
+user_163,artist_001,Tems,83
+user_163,artist_002,Wizkid,55
+user_163,artist_006,Rema,67
+user_163,artist_005,Ayra Starr,48
+user_163,artist_012,CKay,29
+user_163,artist_007,Asake,29
+user_163,artist_015,Tiwa Savage,35
+user_163,artist_003,Burna Boy,34
+user_164,artist_027,Coldplay,138
+user_164,artist_025,Lana Del Rey,76
+user_164,artist_017,Taylor Swift,17
+user_164,artist_020,Dua Lipa,39
+user_164,artist_022,Bruno Mars,54
+user_164,artist_016,Ariana Grande,51
+user_164,artist_023,Olivia Rodrigo,65
+user_164,artist_021,Justin Bieber,25
+user_164,artist_018,Billie Eilish,36
+user_164,artist_019,Ed Sheeran,45
+user_164,artist_026,Adele,59
+user_165,artist_039,J Hus,53
+user_165,artist_033,Nicki Minaj,25
+user_165,artist_029,Kendrick Lamar,63
+user_165,artist_031,Post Malone,20
+user_165,artist_038,Dave,47
+user_165,artist_028,Drake,38
+user_165,artist_037,Stormzy,56
+user_165,artist_032,Doja Cat,50
+user_165,artist_046,Amaarae,29
+user_165,artist_049,Stonebwoy,12
+user_165,artist_050,Black Sherif,13
+user_166,artist_042,Beyonce,29
+user_166,artist_046,Amaarae,44
+user_166,artist_041,The Weeknd,60
+user_166,artist_045,Chris Brown,45
+user_166,artist_043,Rihanna,33
+user_166,artist_008,Tyla,16
+user_166,artist_040,SZA,33
+user_166,artist_016,Ariana Grande,22
+user_166,artist_026,Adele,11
+user_166,artist_017,Taylor Swift,20
+user_166,artist_027,Coldplay,17
+user_167,artist_046,Amaarae,29
+user_167,artist_050,Black Sherif,91
+user_167,artist_048,Shatta Wale,17
+user_167,artist_007,Asake,20
+user_167,artist_049,Stonebwoy,73
+user_167,artist_002,Wizkid,136
+user_167,artist_015,Tiwa Savage,63
+user_167,artist_003,Burna Boy,45
+user_167,artist_047,Sarkodie,8
+user_167,artist_004,Davido,9
+user_168,artist_037,Stormzy,92
+user_168,artist_028,Drake,24
+user_168,artist_036,Central Cee,287
+user_168,artist_050,Black Sherif,58
+user_168,artist_034,Future,59
+user_168,artist_052,Little Simz,65
+user_168,artist_051,Skepta,156
+user_168,artist_038,Dave,77
+user_168,artist_021,Justin Bieber,12
+user_168,artist_016,Ariana Grande,86
+user_168,artist_020,Dua Lipa,27
+user_169,artist_008,Tyla,36
+user_169,artist_007,Asake,94
+user_169,artist_009,Fireboy DML,37
+user_169,artist_012,CKay,35
+user_169,artist_010,Omah Lay,87
+user_169,artist_011,Joeboy,32
+user_169,artist_003,Burna Boy,45
+user_169,artist_001,Tems,16
+user_169,artist_047,Sarkodie,55
+user_169,artist_046,Amaarae,122
+user_169,artist_050,Black Sherif,55
+user_170,artist_017,Taylor Swift,63
+user_170,artist_019,Ed Sheeran,176
+user_170,artist_023,Olivia Rodrigo,112
+user_170,artist_025,Lana Del Rey,13
+user_170,artist_027,Coldplay,116
+user_170,artist_024,Miley Cyrus,84
+user_170,artist_018,Billie Eilish,16
+user_170,artist_020,Dua Lipa,37
+user_170,artist_021,Justin Bieber,70
+user_170,artist_016,Ariana Grande,49
+user_170,artist_022,Bruno Mars,14
+user_171,artist_033,Nicki Minaj,93
+user_171,artist_031,Post Malone,74
+user_171,artist_037,Stormzy,54
+user_171,artist_038,Dave,48
+user_171,artist_039,J Hus,39
+user_171,artist_030,Travis Scott,21
+user_171,artist_032,Doja Cat,24
+user_171,artist_036,Central Cee,38
+user_171,artist_015,Tiwa Savage,40
+user_171,artist_049,Stonebwoy,88
+user_171,artist_004,Davido,33
+user_172,artist_042,Beyonce,41
+user_172,artist_001,Tems,61
+user_172,artist_008,Tyla,65
+user_172,artist_043,Rihanna,23
+user_172,artist_016,Ariana Grande,64
+user_172,artist_045,Chris Brown,18
+user_172,artist_040,SZA,30
+user_172,artist_046,Amaarae,92
+user_172,artist_026,Adele,43
+user_172,artist_021,Justin Bieber,28
+user_172,artist_024,Miley Cyrus,46
+user_173,artist_046,Amaarae,59
+user_173,artist_050,Black Sherif,19
+user_173,artist_048,Shatta Wale,16
+user_173,artist_002,Wizkid,42
+user_173,artist_007,Asake,127
+user_173,artist_003,Burna Boy,40
+user_173,artist_047,Sarkodie,108
+user_173,artist_004,Davido,58
+user_173,artist_015,Tiwa Savage,47
+user_173,artist_049,Stonebwoy,14
+user_174,artist_036,Central Cee,131
+user_174,artist_028,Drake,91
+user_174,artist_037,Stormzy,28
+user_174,artist_053,Headie One,66
+user_174,artist_038,Dave,28
+user_174,artist_034,Future,21
+user_174,artist_039,J Hus,90
+user_174,artist_050,Black Sherif,15
+user_174,artist_026,Adele,63
+user_174,artist_018,Billie Eilish,29
+user_174,artist_023,Olivia Rodrigo,30
+user_175,artist_011,Joeboy,21
+user_175,artist_001,Tems,63
+user_175,artist_015,Tiwa Savage,80
+user_175,artist_009,Fireboy DML,74
+user_175,artist_007,Asake,76
+user_175,artist_003,Burna Boy,58
+user_175,artist_010,Omah Lay,44
+user_175,artist_002,Wizkid,31
+user_175,artist_048,Shatta Wale,10
+user_175,artist_046,Amaarae,43
+user_175,artist_049,Stonebwoy,39
+user_176,artist_026,Adele,27
+user_176,artist_019,Ed Sheeran,32
+user_176,artist_025,Lana Del Rey,44
+user_176,artist_027,Coldplay,110
+user_176,artist_018,Billie Eilish,149
+user_176,artist_017,Taylor Swift,61
+user_176,artist_020,Dua Lipa,36
+user_176,artist_021,Justin Bieber,233
+user_176,artist_022,Bruno Mars,26
+user_176,artist_024,Miley Cyrus,24
+user_176,artist_023,Olivia Rodrigo,10
+user_177,artist_033,Nicki Minaj,45
+user_177,artist_029,Kendrick Lamar,70
+user_177,artist_034,Future,28
+user_177,artist_031,Post Malone,31
+user_177,artist_028,Drake,34
+user_177,artist_035,Metro Boomin,13
+user_177,artist_036,Central Cee,80
+user_177,artist_032,Doja Cat,100
+user_177,artist_002,Wizkid,22
+user_177,artist_003,Burna Boy,43
+user_177,artist_048,Shatta Wale,29
+user_178,artist_041,The Weeknd,74
+user_178,artist_043,Rihanna,100
+user_178,artist_016,Ariana Grande,30
+user_178,artist_044,Khalid,42
+user_178,artist_046,Amaarae,41
+user_178,artist_001,Tems,19
+user_178,artist_040,SZA,38
+user_178,artist_008,Tyla,110
+user_178,artist_025,Lana Del Rey,40
+user_178,artist_024,Miley Cyrus,14
+user_178,artist_026,Adele,12
+user_179,artist_050,Black Sherif,47
+user_179,artist_049,Stonebwoy,117
+user_179,artist_003,Burna Boy,54
+user_179,artist_046,Amaarae,80
+user_179,artist_015,Tiwa Savage,73
+user_179,artist_004,Davido,69
+user_179,artist_047,Sarkodie,57
+user_179,artist_007,Asake,39
+user_179,artist_048,Shatta Wale,120
+user_179,artist_002,Wizkid,19
+user_180,artist_038,Dave,50
+user_180,artist_053,Headie One,63
+user_180,artist_037,Stormzy,65
+user_180,artist_028,Drake,66
+user_180,artist_050,Black Sherif,13
+user_180,artist_034,Future,19
+user_180,artist_036,Central Cee,166
+user_180,artist_052,Little Simz,23
+user_180,artist_021,Justin Bieber,51
+user_180,artist_023,Olivia Rodrigo,22
+user_180,artist_022,Bruno Mars,36
